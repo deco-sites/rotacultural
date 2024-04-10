@@ -97,8 +97,10 @@ const manifest = {
     "deco-sites/rotacultural/sections/Images/ShoppableBanner.tsx": $$$$$$28,
     "deco-sites/rotacultural/sections/Links/LinkTree.tsx": $$$$$$29,
     "deco-sites/rotacultural/sections/Links/Shortcuts.tsx": $$$$$$30,
-    "deco-sites/rotacultural/sections/Miscellaneous/CampaignTimer.tsx": $$$$$$31,
-    "deco-sites/rotacultural/sections/Miscellaneous/CookieConsent.tsx": $$$$$$32,
+    "deco-sites/rotacultural/sections/Miscellaneous/CampaignTimer.tsx":
+      $$$$$$31,
+    "deco-sites/rotacultural/sections/Miscellaneous/CookieConsent.tsx":
+      $$$$$$32,
     "deco-sites/rotacultural/sections/Miscellaneous/Slide.tsx": $$$$$$33,
     "deco-sites/rotacultural/sections/Newsletter/Newsletter.tsx": $$$$$$34,
     "deco-sites/rotacultural/sections/Product/ImageGalleryFrontBack.tsx":
