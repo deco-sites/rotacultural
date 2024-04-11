@@ -30,6 +30,7 @@ import * as $$$$$$18 from "./sections/Content/RichText.tsx";
 import * as $$$$$$19 from "./sections/Content/Table.tsx";
 import * as $$$$$$20 from "./sections/Content/Testimonials.tsx";
 import * as $$$$$$21 from "./sections/Content/TextWithImage.tsx";
+import * as $$$$$$47 from "./sections/cupom.tsx";
 import * as $$$$$$22 from "./sections/Footer/Footer.tsx";
 import * as $$$$$$23 from "./sections/Gallery.tsx";
 import * as $$$$$$24 from "./sections/Header/Header.tsx";
@@ -88,6 +89,7 @@ const manifest = {
     "deco-sites/rotacultural/sections/Content/Table.tsx": $$$$$$19,
     "deco-sites/rotacultural/sections/Content/Testimonials.tsx": $$$$$$20,
     "deco-sites/rotacultural/sections/Content/TextWithImage.tsx": $$$$$$21,
+    "deco-sites/rotacultural/sections/cupom.tsx": $$$$$$47,
     "deco-sites/rotacultural/sections/Footer/Footer.tsx": $$$$$$22,
     "deco-sites/rotacultural/sections/Gallery.tsx": $$$$$$23,
     "deco-sites/rotacultural/sections/Header/Header.tsx": $$$$$$24,

@@ -27,7 +27,7 @@ export default function Hero(props: Props) {
             height={1350}
           />
         )}
-        <div className={image ? "" : "max-w-md"}>
+        <div className={image ? "" : "max-w-md p-3"}>
           <h1 className="text-5xl font-bold">{title}</h1>
           <p className="py-6">{description}</p>
           {cta && (
